@@ -8,15 +8,15 @@
     },
     "dependencies": {
         "express": "~4.9.x",
-        "request":"*",
-        "cors":"*",
-        "sip":"0.0.3",
+        "request": "*",
+        "cors": "*",
+        "sip": "0.0.3",
         "emailjs": "*",
         "body-parser": "*",
-        "open" :"*"
+        "open": "*"
     },
     "license": "MIT",
-    "bin":{
-        "callsim" : "./server.js"
+    "bin": {
+        "callsim": "./server.js"
     }
 }
